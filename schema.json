@@ -1,0 +1,10 @@
+{
+  "icons": [
+    {
+      "name": "left-arrow",
+      "variants": ["outlined"],
+      "tags": ["arrow", "left", "back", "previous"],
+      "category": ["navigation"]
+    }
+  ]
+}
